@@ -15,5 +15,11 @@ Curso de programación con python del 2014
 - http://pyvideo.org/
 
 ### Herramientas:
-- http://ideone.com/
-- http://www.pythontutor.com/visualize.html#mode=edit
+- En linea:
+  - http://ideone.com/
+  - http://www.pythontutor.com/visualize.html#mode=edit
+- Editores de texto y entornos de desarrollo
+  - http://www.ninja-ide.org/
+  - http://www.sublimetext.com/
+  - https://atom.io/
+  - http://www.jetbrains.com/pycharm/
