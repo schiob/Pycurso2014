@@ -3,6 +3,9 @@ Pycurso2014
 
 Curso de programación con python del 2014
 
+#### Ver los archivos.ipynb
+- http://nbviewer.ipython.org/github/schiob/Pycurso2014/tree/master/
+
 ### Guias:
 - https://docs.python.org/3/tutorial/index.html
 - http://docs.python-guide.org/en/latest/
